@@ -6,7 +6,7 @@ First go to the images folder then take screenshots from your pc like those imag
 
 Second clone it go to that directory then create a virtual env and then go inside that env then run this command
 
-` pip install -r requirements.tx`
+` pip install -r requirements.txt`
 
 Run this command to compile it and after it runs copy images folder inside dist folder
 
